@@ -22,7 +22,12 @@ body{
 }
 #RestantTryes{
     border: 1px solid black;
-    width: 2vw;
+    width: 8vw;
+    max-width: 40px;
     height: 4vh;
     text-align: center;
+}
+#Question{
+    max-width: 40vw;
+    font-size: 1.5rem;
 }
