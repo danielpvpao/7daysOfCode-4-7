@@ -36,3 +36,6 @@ function UpdateTryes() {
     }
     console.log(tryNumber);
 }
+function ClearInput(){
+    Respons.value = "";  
+};
